@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rtanmay52@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PmRINokVHfcJk4FlaqvUNOdJd4lvNsux/view?usp=sharing](https://drive.google.com/file/d/1PmRINokVHfcJk4FlaqvUNOdJd4lvNsux/view?usp=sharing)
+- 📄 Know about my experiences https://tinyurl.com/ctrltanmay
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
