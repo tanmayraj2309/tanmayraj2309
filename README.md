@@ -23,7 +23,7 @@
 </p>
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcode.card.workers.dev/ctrltanmay?theme=dark&font=baloo&extension=null" />  
+  <img  align=top flex-grow=1 src="https://leetcode.card.workers.dev/ctrltanmay?theme=dark&font=baloo&extension=null](https://leetcard.jacoblin.cool/ctrltanmay?theme=radical&font=Underdog&ext=contest" />  
 </p>
 
 
