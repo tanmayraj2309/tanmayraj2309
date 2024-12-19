@@ -95,15 +95,3 @@
   <br/><br/><br/>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmayraj2309&show_icons=true&locale=en&layout=compact" alt="tanmayraj2309" /></p>
-
-
-
-
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmayraj2309&show_icons=true&locale=en" alt="tanmayraj2309" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayraj2309&" alt="tanmayraj2309" /></p>
