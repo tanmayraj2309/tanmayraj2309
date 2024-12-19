@@ -62,13 +62,7 @@
 
 ### 🔥 Streak Stats
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
-         alt="tanmayraj2309's streak" 
-         src="https://streak-stats.demolab.com?user=tanmayraj2309&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-statss-omega.vercel.app?user=tanmayraj2309&theme=ocean-dark&border_radius=78&card_width=480" alt="GitHub Streak" /></a>
 
 ### 📊 GitHub Contribution Graph
 
