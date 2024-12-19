@@ -60,7 +60,9 @@
 
 
 
-<!--  🔥 Streak Stats  --> 
+
+<!-- ### 🔥 Streak Stats-->
+### 📊 GitHub Stats
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-statss-omega.vercel.app?user=tanmayraj2309&theme=ocean-dark&border_radius=78&card_width=480" alt="GitHub Streak" /></a>
 
