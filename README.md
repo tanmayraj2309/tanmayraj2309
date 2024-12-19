@@ -60,41 +60,6 @@
 
 
 
- ### 🔥 Streak stats
-<hr/>
-
-GitHub Readme Streak Stats 
-<p align="center">
-  <a href="https://github.com/tanmayraj2309/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tanmayraj2309's streak" src="https://streak-stats.demolab.com/?user=tanmayraj23097&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-# 📊 GitHub Streak:
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PrashantB307's streak" src="https://streak-stats.demolab.com?user=PrashantB307&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89"/>
-  </a>
-</p>
-
-# 📊 GitHub Contribution Graph:
-[![Prashant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantB307&theme=react-dark)](https://github.com/tanmayraj2309/github-readme-activity-graph)
-
-<br>
-<div align="center">
-<!--   <h2>🐍 My Contributions 🐍</h2>
-  <br> -->
-<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
-
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](/contributiongrid.svg)
-
-  
-  <br/><br/><br/>
-</div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmayraj2309&show_icons=true&locale=en&layout=compact" alt="tanmayraj2309" /></p>
-
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmayraj2309&show_icons=true&locale=en" alt="tanmayraj2309" /></p>
