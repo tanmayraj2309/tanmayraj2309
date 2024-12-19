@@ -79,7 +79,7 @@ GitHub Readme Streak Stats
 </p>
 
 # 📊 GitHub Contribution Graph:
-[![Prashant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantB307&theme=react-dark)](https://github.com/PrashantB307/github-readme-activity-graph)
+[![Prashant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantB307&theme=react-dark)](https://github.com/tanmayraj2309/github-readme-activity-graph)
 
 <br>
 <div align="center">
