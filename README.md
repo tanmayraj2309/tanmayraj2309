@@ -65,8 +65,8 @@
 
 GitHub Readme Streak Stats 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PrashantB307's streak" src="https://streak-stats.demolab.com/?user=PrashantB307&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://github.com/tanmayraj2309/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tanmayraj2309's streak" src="https://streak-stats.demolab.com/?user=tanmayraj23097&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
