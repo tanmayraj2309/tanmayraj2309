@@ -60,6 +60,28 @@
 
 
 
+### 🔥 Streak Stats
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
+         alt="tanmayraj2309's streak" 
+         src="https://streak-stats.demolab.com?user=tanmayraj2309&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+### 📊 GitHub Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="tanmayraj2309's Activity Graph" 
+         src="https://github-readme-activity-graph.vercel.app/graph?username=tanmayraj2309&theme=react-dark"/>
+  </a>
+</p>
+
+
+
+
 
 <!-- snake -->
 
@@ -74,8 +96,6 @@
   
   <br/><br/><br/>
 </div>
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmayraj2309&show_icons=true&locale=en&layout=compact" alt="tanmayraj2309" /></p>
 
