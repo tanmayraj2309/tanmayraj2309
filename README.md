@@ -60,18 +60,20 @@
 
 
 
-### 🔥 Streak Stats
+<!--  🔥 Streak Stats  --> 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-statss-omega.vercel.app?user=tanmayraj2309&theme=ocean-dark&border_radius=78&card_width=480" alt="GitHub Streak" /></a>
 
 ### 📊 GitHub Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/tanmayraj2309/github-readme-activity-graph">
     <img alt="tanmayraj2309's Activity Graph" 
-         src="https://github-readme-activity-graph.vercel.app/graph?username=tanmayraj2309&theme=react-dark"/>
+         src="https://github-readme-activity-graph.vercel.app/graph?username=tanmayraj2309&theme=modern-lilac"/>
   </a>
 </p>
+
+
 
 
 
